@@ -7,13 +7,62 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3CA42BC81E2BE219001FB6DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA42BC71E2BE219001FB6DE /* AppDelegate.swift */; };
-		3CA42BCA1E2BE219001FB6DE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA42BC91E2BE219001FB6DE /* ViewController.swift */; };
-		3CA42BCD1E2BE21A001FB6DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CA42BCB1E2BE21A001FB6DE /* Main.storyboard */; };
-		3CA42BCF1E2BE21A001FB6DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CA42BCE1E2BE21A001FB6DE /* Assets.xcassets */; };
-		3CA42BD21E2BE21A001FB6DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CA42BD01E2BE21A001FB6DE /* LaunchScreen.storyboard */; };
+		1AAA52323184F2DB67FF6E01 /* Pods_swiftsampleprojectUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 854C50F10B9A9F013879B4D7 /* Pods_swiftsampleprojectUITests.framework */; };
+		3C16D88C1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8181E39370100452DF1 /* .gitkeep */; };
+		3C16D88D1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D81B1E39370100452DF1 /* .gitkeep */; };
+		3C16D88E1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D81E1E39370100452DF1 /* .gitkeep */; };
+		3C16D88F1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8201E39370100452DF1 /* .gitkeep */; };
+		3C16D8901E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8231E39370100452DF1 /* .gitkeep */; };
+		3C16D8911E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8251E39370100452DF1 /* .gitkeep */; };
+		3C16D8921E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8271E39370100452DF1 /* .gitkeep */; };
+		3C16D8931E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D82A1E39370100452DF1 /* .gitkeep */; };
+		3C16D8941E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D82D1E39370100452DF1 /* .gitkeep */; };
+		3C16D8951E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D82F1E39370100452DF1 /* .gitkeep */; };
+		3C16D8961E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8311E39370100452DF1 /* .gitkeep */; };
+		3C16D8971E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8331E39370100452DF1 /* .gitkeep */; };
+		3C16D8981E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8351E39370100452DF1 /* .gitkeep */; };
+		3C16D8991E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8371E39370100452DF1 /* .gitkeep */; };
+		3C16D89A1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8391E39370100452DF1 /* .gitkeep */; };
+		3C16D89B1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D83D1E39370100452DF1 /* .gitkeep */; };
+		3C16D89C1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8401E39370100452DF1 /* .gitkeep */; };
+		3C16D89D1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8431E39370100452DF1 /* .gitkeep */; };
+		3C16D89E1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8451E39370100452DF1 /* .gitkeep */; };
+		3C16D89F1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8481E39370100452DF1 /* .gitkeep */; };
+		3C16D8A01E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D84A1E39370100452DF1 /* .gitkeep */; };
+		3C16D8A11E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D84C1E39370100452DF1 /* .gitkeep */; };
+		3C16D8A21E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D84F1E39370100452DF1 /* .gitkeep */; };
+		3C16D8A31E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8521E39370100452DF1 /* .gitkeep */; };
+		3C16D8A41E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8541E39370100452DF1 /* .gitkeep */; };
+		3C16D8A51E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8561E39370100452DF1 /* .gitkeep */; };
+		3C16D8A61E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8581E39370100452DF1 /* .gitkeep */; };
+		3C16D8A71E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D85A1E39370100452DF1 /* .gitkeep */; };
+		3C16D8A81E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D85C1E39370100452DF1 /* .gitkeep */; };
+		3C16D8A91E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D85E1E39370100452DF1 /* .gitkeep */; };
+		3C16D8AA1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8611E39370100452DF1 /* .gitkeep */; };
+		3C16D8AB1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8641E39370100452DF1 /* .gitkeep */; };
+		3C16D8AC1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8671E39370100452DF1 /* .gitkeep */; };
+		3C16D8AD1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8691E39370100452DF1 /* .gitkeep */; };
+		3C16D8AE1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D86C1E39370100452DF1 /* .gitkeep */; };
+		3C16D8AF1E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D86E1E39370100452DF1 /* .gitkeep */; };
+		3C16D8B01E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8701E39370100452DF1 /* .gitkeep */; };
+		3C16D8B11E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8731E39370100452DF1 /* .gitkeep */; };
+		3C16D8B21E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8761E39370100452DF1 /* .gitkeep */; };
+		3C16D8B31E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8781E39370100452DF1 /* .gitkeep */; };
+		3C16D8B41E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D87A1E39370100452DF1 /* .gitkeep */; };
+		3C16D8B51E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D87C1E39370100452DF1 /* .gitkeep */; };
+		3C16D8B61E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D87E1E39370100452DF1 /* .gitkeep */; };
+		3C16D8B71E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8801E39370100452DF1 /* .gitkeep */; };
+		3C16D8B81E39370100452DF1 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8821E39370100452DF1 /* .gitkeep */; };
+		3C16D8B91E39370100452DF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8841E39370100452DF1 /* Assets.xcassets */; };
+		3C16D8BA1E39370100452DF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8851E39370100452DF1 /* LaunchScreen.storyboard */; };
+		3C16D8BB1E39370100452DF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8871E39370100452DF1 /* Main.storyboard */; };
+		3C16D8BC1E39370100452DF1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C16D88A1E39370100452DF1 /* AppDelegate.swift */; };
+		3C16D8BD1E39370100452DF1 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D88B1E39370100452DF1 /* Info.plist */; };
+		3C16D8BE1E39370800452DF1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C16D88A1E39370100452DF1 /* AppDelegate.swift */; };
+		3C16D8BF1E39371500452DF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C16D8841E39370100452DF1 /* Assets.xcassets */; };
 		3CA42BDD1E2BE21A001FB6DE /* swiftsampleprojectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA42BDC1E2BE21A001FB6DE /* swiftsampleprojectTests.swift */; };
 		3CA42BE81E2BE21A001FB6DE /* swiftsampleprojectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA42BE71E2BE21A001FB6DE /* swiftsampleprojectUITests.swift */; };
+		B2A56CBDC8B5C31C22618297 /* Pods_swiftsampleprojectTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9CD3BFD42FC50C3C30CF4D1F /* Pods_swiftsampleprojectTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,19 +83,69 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3513348595CDC06F32ECC043 /* Pods-swiftsampleprojectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-swiftsampleprojectTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-swiftsampleprojectTests/Pods-swiftsampleprojectTests.debug.xcconfig"; sourceTree = "<group>"; };
+		3C16D8181E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D81B1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D81E1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8201E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8231E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8251E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8271E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D82A1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D82D1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D82F1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8311E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8331E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8351E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8371E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8391E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D83D1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8401E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8431E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8451E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8481E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D84A1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D84C1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D84F1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8521E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8541E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8561E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8581E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D85A1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D85C1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D85E1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8611E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8641E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8671E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8691E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D86C1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D86E1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8701E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8731E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8761E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8781E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D87A1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D87C1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D87E1E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8801E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8821E39370100452DF1 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		3C16D8841E39370100452DF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3C16D8861E39370100452DF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3C16D8881E39370100452DF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3C16D88A1E39370100452DF1 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3C16D88B1E39370100452DF1 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3CA42BC41E2BE219001FB6DE /* swiftsampleproject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftsampleproject.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		3CA42BC71E2BE219001FB6DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3CA42BC91E2BE219001FB6DE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		3CA42BCC1E2BE21A001FB6DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3CA42BCE1E2BE21A001FB6DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		3CA42BD11E2BE21A001FB6DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		3CA42BD31E2BE21A001FB6DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3CA42BD81E2BE21A001FB6DE /* swiftsampleprojectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftsampleprojectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CA42BDC1E2BE21A001FB6DE /* swiftsampleprojectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftsampleprojectTests.swift; sourceTree = "<group>"; };
 		3CA42BDE1E2BE21A001FB6DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3CA42BE31E2BE21A001FB6DE /* swiftsampleprojectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftsampleprojectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CA42BE71E2BE21A001FB6DE /* swiftsampleprojectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftsampleprojectUITests.swift; sourceTree = "<group>"; };
 		3CA42BE91E2BE21A001FB6DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E8ACB55866AAEC52F5EAABE /* Pods-swiftsampleprojectUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-swiftsampleprojectUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-swiftsampleprojectUITests/Pods-swiftsampleprojectUITests.release.xcconfig"; sourceTree = "<group>"; };
+		7E021AD9538EE3DC81939D80 /* Pods-swiftsampleprojectUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-swiftsampleprojectUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-swiftsampleprojectUITests/Pods-swiftsampleprojectUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		854C50F10B9A9F013879B4D7 /* Pods_swiftsampleprojectUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_swiftsampleprojectUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9CD3BFD42FC50C3C30CF4D1F /* Pods_swiftsampleprojectTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_swiftsampleprojectTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B60C4046F6E639B2335992D9 /* Pods-swiftsampleprojectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-swiftsampleprojectTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-swiftsampleprojectTests/Pods-swiftsampleprojectTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +160,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2A56CBDC8B5C31C22618297 /* Pods_swiftsampleprojectTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +168,605 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AAA52323184F2DB67FF6E01 /* Pods_swiftsampleprojectUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		375C9852AF6AFF511F9C2252 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9CD3BFD42FC50C3C30CF4D1F /* Pods_swiftsampleprojectTests.framework */,
+				854C50F10B9A9F013879B4D7 /* Pods_swiftsampleprojectUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3C16D8151E39370100452DF1 /* Code */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8161E39370100452DF1 /* Common */,
+				3C16D83A1E39370100452DF1 /* PlatformSpecific */,
+			);
+			path = Code;
+			sourceTree = "<group>";
+		};
+		3C16D8161E39370100452DF1 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8171E39370100452DF1 /* 3rdparty */,
+				3C16D8191E39370100452DF1 /* Architecture */,
+				3C16D8301E39370100452DF1 /* Categories */,
+				3C16D8321E39370100452DF1 /* Constants */,
+				3C16D8341E39370100452DF1 /* Functions */,
+				3C16D8361E39370100452DF1 /* Macroses */,
+				3C16D8381E39370100452DF1 /* Utilities */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		3C16D8171E39370100452DF1 /* 3rdparty */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8181E39370100452DF1 /* .gitkeep */,
+			);
+			path = 3rdparty;
+			sourceTree = "<group>";
+		};
+		3C16D8191E39370100452DF1 /* Architecture */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D81A1E39370100452DF1 /* Controllers */,
+				3C16D81C1E39370100452DF1 /* Model */,
+				3C16D8261E39370100452DF1 /* Protocols */,
+				3C16D8291E39370100452DF1 /* Services */,
+				3C16D82B1E39370100452DF1 /* View */,
+			);
+			path = Architecture;
+			sourceTree = "<group>";
+		};
+		3C16D81A1E39370100452DF1 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D81B1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		3C16D81C1E39370100452DF1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D81D1E39370100452DF1 /* Base */,
+				3C16D81F1E39370100452DF1 /* Domain */,
+				3C16D8211E39370100452DF1 /* Services */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3C16D81D1E39370100452DF1 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D81E1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		3C16D81F1E39370100452DF1 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8201E39370100452DF1 /* .gitkeep */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		3C16D8211E39370100452DF1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8221E39370100452DF1 /* Route */,
+				3C16D8241E39370100452DF1 /* Theme */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		3C16D8221E39370100452DF1 /* Route */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8231E39370100452DF1 /* .gitkeep */,
+			);
+			path = Route;
+			sourceTree = "<group>";
+		};
+		3C16D8241E39370100452DF1 /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8251E39370100452DF1 /* .gitkeep */,
+			);
+			path = Theme;
+			sourceTree = "<group>";
+		};
+		3C16D8261E39370100452DF1 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8271E39370100452DF1 /* .gitkeep */,
+				3C16D8281E39370100452DF1 /* Extensions */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		3C16D8281E39370100452DF1 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		3C16D8291E39370100452DF1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D82A1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		3C16D82B1E39370100452DF1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D82C1E39370100452DF1 /* ViewControllers */,
+				3C16D82E1E39370100452DF1 /* Views */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3C16D82C1E39370100452DF1 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D82D1E39370100452DF1 /* .gitkeep */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		3C16D82E1E39370100452DF1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D82F1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3C16D8301E39370100452DF1 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8311E39370100452DF1 /* .gitkeep */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		3C16D8321E39370100452DF1 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8331E39370100452DF1 /* .gitkeep */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		3C16D8341E39370100452DF1 /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8351E39370100452DF1 /* .gitkeep */,
+			);
+			path = Functions;
+			sourceTree = "<group>";
+		};
+		3C16D8361E39370100452DF1 /* Macroses */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8371E39370100452DF1 /* .gitkeep */,
+			);
+			path = Macroses;
+			sourceTree = "<group>";
+		};
+		3C16D8381E39370100452DF1 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8391E39370100452DF1 /* .gitkeep */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		3C16D83A1E39370100452DF1 /* PlatformSpecific */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D83B1E39370100452DF1 /* iPad */,
+				3C16D85F1E39370100452DF1 /* iPhone */,
+			);
+			path = PlatformSpecific;
+			sourceTree = "<group>";
+		};
+		3C16D83B1E39370100452DF1 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D83C1E39370100452DF1 /* 3rdparty */,
+				3C16D83E1E39370100452DF1 /* Architecture */,
+				3C16D8551E39370100452DF1 /* Categories */,
+				3C16D8571E39370100452DF1 /* Constants */,
+				3C16D8591E39370100452DF1 /* Functions */,
+				3C16D85B1E39370100452DF1 /* Macroses */,
+				3C16D85D1E39370100452DF1 /* Utilities */,
+			);
+			path = iPad;
+			sourceTree = "<group>";
+		};
+		3C16D83C1E39370100452DF1 /* 3rdparty */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D83D1E39370100452DF1 /* .gitkeep */,
+			);
+			path = 3rdparty;
+			sourceTree = "<group>";
+		};
+		3C16D83E1E39370100452DF1 /* Architecture */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D83F1E39370100452DF1 /* Controllers */,
+				3C16D8411E39370100452DF1 /* Model */,
+				3C16D84B1E39370100452DF1 /* Protocols */,
+				3C16D84E1E39370100452DF1 /* Services */,
+				3C16D8501E39370100452DF1 /* View */,
+			);
+			path = Architecture;
+			sourceTree = "<group>";
+		};
+		3C16D83F1E39370100452DF1 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8401E39370100452DF1 /* .gitkeep */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		3C16D8411E39370100452DF1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8421E39370100452DF1 /* Base */,
+				3C16D8441E39370100452DF1 /* Domain */,
+				3C16D8461E39370100452DF1 /* Services */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3C16D8421E39370100452DF1 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8431E39370100452DF1 /* .gitkeep */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		3C16D8441E39370100452DF1 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8451E39370100452DF1 /* .gitkeep */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		3C16D8461E39370100452DF1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8471E39370100452DF1 /* Route */,
+				3C16D8491E39370100452DF1 /* Theme */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		3C16D8471E39370100452DF1 /* Route */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8481E39370100452DF1 /* .gitkeep */,
+			);
+			path = Route;
+			sourceTree = "<group>";
+		};
+		3C16D8491E39370100452DF1 /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D84A1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Theme;
+			sourceTree = "<group>";
+		};
+		3C16D84B1E39370100452DF1 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D84C1E39370100452DF1 /* .gitkeep */,
+				3C16D84D1E39370100452DF1 /* Extensions */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		3C16D84D1E39370100452DF1 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		3C16D84E1E39370100452DF1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D84F1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		3C16D8501E39370100452DF1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8511E39370100452DF1 /* ViewControllers */,
+				3C16D8531E39370100452DF1 /* Views */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3C16D8511E39370100452DF1 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8521E39370100452DF1 /* .gitkeep */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		3C16D8531E39370100452DF1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8541E39370100452DF1 /* .gitkeep */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3C16D8551E39370100452DF1 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8561E39370100452DF1 /* .gitkeep */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		3C16D8571E39370100452DF1 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8581E39370100452DF1 /* .gitkeep */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		3C16D8591E39370100452DF1 /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D85A1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Functions;
+			sourceTree = "<group>";
+		};
+		3C16D85B1E39370100452DF1 /* Macroses */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D85C1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Macroses;
+			sourceTree = "<group>";
+		};
+		3C16D85D1E39370100452DF1 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D85E1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		3C16D85F1E39370100452DF1 /* iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8601E39370100452DF1 /* 3rdparty */,
+				3C16D8621E39370100452DF1 /* Architecture */,
+				3C16D8791E39370100452DF1 /* Categories */,
+				3C16D87B1E39370100452DF1 /* Constants */,
+				3C16D87D1E39370100452DF1 /* Functions */,
+				3C16D87F1E39370100452DF1 /* Macroses */,
+				3C16D8811E39370100452DF1 /* Utilities */,
+			);
+			path = iPhone;
+			sourceTree = "<group>";
+		};
+		3C16D8601E39370100452DF1 /* 3rdparty */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8611E39370100452DF1 /* .gitkeep */,
+			);
+			path = 3rdparty;
+			sourceTree = "<group>";
+		};
+		3C16D8621E39370100452DF1 /* Architecture */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8631E39370100452DF1 /* Controllers */,
+				3C16D8651E39370100452DF1 /* Model */,
+				3C16D86F1E39370100452DF1 /* Protocols */,
+				3C16D8721E39370100452DF1 /* Services */,
+				3C16D8741E39370100452DF1 /* View */,
+			);
+			path = Architecture;
+			sourceTree = "<group>";
+		};
+		3C16D8631E39370100452DF1 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8641E39370100452DF1 /* .gitkeep */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		3C16D8651E39370100452DF1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8661E39370100452DF1 /* Base */,
+				3C16D8681E39370100452DF1 /* Domain */,
+				3C16D86A1E39370100452DF1 /* Services */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3C16D8661E39370100452DF1 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8671E39370100452DF1 /* .gitkeep */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		3C16D8681E39370100452DF1 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8691E39370100452DF1 /* .gitkeep */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		3C16D86A1E39370100452DF1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D86B1E39370100452DF1 /* Route */,
+				3C16D86D1E39370100452DF1 /* Theme */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		3C16D86B1E39370100452DF1 /* Route */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D86C1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Route;
+			sourceTree = "<group>";
+		};
+		3C16D86D1E39370100452DF1 /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D86E1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Theme;
+			sourceTree = "<group>";
+		};
+		3C16D86F1E39370100452DF1 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8701E39370100452DF1 /* .gitkeep */,
+				3C16D8711E39370100452DF1 /* Extensions */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		3C16D8711E39370100452DF1 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		3C16D8721E39370100452DF1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8731E39370100452DF1 /* .gitkeep */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		3C16D8741E39370100452DF1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8751E39370100452DF1 /* ViewControllers */,
+				3C16D8771E39370100452DF1 /* Views */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3C16D8751E39370100452DF1 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8761E39370100452DF1 /* .gitkeep */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		3C16D8771E39370100452DF1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8781E39370100452DF1 /* .gitkeep */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3C16D8791E39370100452DF1 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D87A1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		3C16D87B1E39370100452DF1 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D87C1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		3C16D87D1E39370100452DF1 /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D87E1E39370100452DF1 /* .gitkeep */,
+			);
+			path = Functions;
+			sourceTree = "<group>";
+		};
+		3C16D87F1E39370100452DF1 /* Macroses */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8801E39370100452DF1 /* .gitkeep */,
+			);
+			path = Macroses;
+			sourceTree = "<group>";
+		};
+		3C16D8811E39370100452DF1 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8821E39370100452DF1 /* .gitkeep */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		3C16D8831E39370100452DF1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D8841E39370100452DF1 /* Assets.xcassets */,
+				3C16D8851E39370100452DF1 /* LaunchScreen.storyboard */,
+				3C16D8871E39370100452DF1 /* Main.storyboard */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		3C16D8891E39370100452DF1 /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				3C16D88A1E39370100452DF1 /* AppDelegate.swift */,
+				3C16D88B1E39370100452DF1 /* Info.plist */,
+			);
+			path = SupportingFiles;
+			sourceTree = "<group>";
+		};
 		3CA42BBB1E2BE219001FB6DE = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +774,8 @@
 				3CA42BDB1E2BE21A001FB6DE /* swiftsampleprojectTests */,
 				3CA42BE61E2BE21A001FB6DE /* swiftsampleprojectUITests */,
 				3CA42BC51E2BE219001FB6DE /* Products */,
+				86F0DAE0E84B4E985FC74FA6 /* Pods */,
+				375C9852AF6AFF511F9C2252 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,12 +792,9 @@
 		3CA42BC61E2BE219001FB6DE /* swiftsampleproject */ = {
 			isa = PBXGroup;
 			children = (
-				3CA42BC71E2BE219001FB6DE /* AppDelegate.swift */,
-				3CA42BC91E2BE219001FB6DE /* ViewController.swift */,
-				3CA42BCB1E2BE21A001FB6DE /* Main.storyboard */,
-				3CA42BCE1E2BE21A001FB6DE /* Assets.xcassets */,
-				3CA42BD01E2BE21A001FB6DE /* LaunchScreen.storyboard */,
-				3CA42BD31E2BE21A001FB6DE /* Info.plist */,
+				3C16D8151E39370100452DF1 /* Code */,
+				3C16D8831E39370100452DF1 /* Resources */,
+				3C16D8891E39370100452DF1 /* SupportingFiles */,
 			);
 			path = swiftsampleproject;
 			sourceTree = "<group>";
@@ -123,6 +815,17 @@
 				3CA42BE91E2BE21A001FB6DE /* Info.plist */,
 			);
 			path = swiftsampleprojectUITests;
+			sourceTree = "<group>";
+		};
+		86F0DAE0E84B4E985FC74FA6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3513348595CDC06F32ECC043 /* Pods-swiftsampleprojectTests.debug.xcconfig */,
+				B60C4046F6E639B2335992D9 /* Pods-swiftsampleprojectTests.release.xcconfig */,
+				7E021AD9538EE3DC81939D80 /* Pods-swiftsampleprojectUITests.debug.xcconfig */,
+				4E8ACB55866AAEC52F5EAABE /* Pods-swiftsampleprojectUITests.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -149,9 +852,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3CA42BEF1E2BE21A001FB6DE /* Build configuration list for PBXNativeTarget "swiftsampleprojectTests" */;
 			buildPhases = (
+				5602D06DDC6D2E38D85EC86B /* [CP] Check Pods Manifest.lock */,
 				3CA42BD41E2BE21A001FB6DE /* Sources */,
 				3CA42BD51E2BE21A001FB6DE /* Frameworks */,
 				3CA42BD61E2BE21A001FB6DE /* Resources */,
+				DB08D4FED6E0BD54BBEE061C /* [CP] Embed Pods Frameworks */,
+				32EFBD5A43913B9756B2F74A /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +873,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3CA42BF21E2BE21A001FB6DE /* Build configuration list for PBXNativeTarget "swiftsampleprojectUITests" */;
 			buildPhases = (
+				0F2CC91E5C218D1EFB803F59 /* [CP] Check Pods Manifest.lock */,
 				3CA42BDF1E2BE21A001FB6DE /* Sources */,
 				3CA42BE01E2BE21A001FB6DE /* Frameworks */,
 				3CA42BE11E2BE21A001FB6DE /* Resources */,
+				B7A366BC5DCFC8776858696F /* [CP] Embed Pods Frameworks */,
+				F2210075B6C5DCE94A6E8C06 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -232,9 +941,55 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3CA42BD21E2BE21A001FB6DE /* LaunchScreen.storyboard in Resources */,
-				3CA42BCF1E2BE21A001FB6DE /* Assets.xcassets in Resources */,
-				3CA42BCD1E2BE21A001FB6DE /* Main.storyboard in Resources */,
+				3C16D8A81E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D88E1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D88C1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8AF1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8B91E39370100452DF1 /* Assets.xcassets in Resources */,
+				3C16D8B41E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8A41E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8A61E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8961E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8B31E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D89D1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D89E1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8971E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8B81E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8B01E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8A01E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8901E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8AD1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D89F1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8941E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8911E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D88D1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8981E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8A11E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D88F1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8B21E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8AA1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8BB1E39370100452DF1 /* Main.storyboard in Resources */,
+				3C16D8A31E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8B11E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8B51E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8951E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D89C1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8A21E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8921E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8AC1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8A51E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8B61E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8BA1E39370100452DF1 /* LaunchScreen.storyboard in Resources */,
+				3C16D8B71E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8AE1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8BD1E39370100452DF1 /* Info.plist in Resources */,
+				3C16D89A1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8931E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8991E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8A91E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D89B1E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8A71E39370100452DF1 /* .gitkeep in Resources */,
+				3C16D8AB1E39370100452DF1 /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,6 +997,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C16D8BF1E39371500452DF1 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,13 +1010,105 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		0F2CC91E5C218D1EFB803F59 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		32EFBD5A43913B9756B2F74A /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-swiftsampleprojectTests/Pods-swiftsampleprojectTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5602D06DDC6D2E38D85EC86B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		B7A366BC5DCFC8776858696F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-swiftsampleprojectUITests/Pods-swiftsampleprojectUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DB08D4FED6E0BD54BBEE061C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-swiftsampleprojectTests/Pods-swiftsampleprojectTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F2210075B6C5DCE94A6E8C06 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-swiftsampleprojectUITests/Pods-swiftsampleprojectUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		3CA42BC01E2BE219001FB6DE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3CA42BCA1E2BE219001FB6DE /* ViewController.swift in Sources */,
-				3CA42BC81E2BE219001FB6DE /* AppDelegate.swift in Sources */,
+				3C16D8BC1E39370100452DF1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,6 +1116,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C16D8BE1E39370800452DF1 /* AppDelegate.swift in Sources */,
 				3CA42BDD1E2BE21A001FB6DE /* swiftsampleprojectTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -296,20 +1145,20 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		3CA42BCB1E2BE21A001FB6DE /* Main.storyboard */ = {
+		3C16D8851E39370100452DF1 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3CA42BCC1E2BE21A001FB6DE /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		3CA42BD01E2BE21A001FB6DE /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				3CA42BD11E2BE21A001FB6DE /* Base */,
+				3C16D8861E39370100452DF1 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		3C16D8871E39370100452DF1 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3C16D8881E39370100452DF1 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -434,6 +1283,7 @@
 		};
 		3CA42BF01E2BE21A001FB6DE /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3513348595CDC06F32ECC043 /* Pods-swiftsampleprojectTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -448,6 +1298,7 @@
 		};
 		3CA42BF11E2BE21A001FB6DE /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B60C4046F6E639B2335992D9 /* Pods-swiftsampleprojectTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -462,6 +1313,7 @@
 		};
 		3CA42BF31E2BE21A001FB6DE /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7E021AD9538EE3DC81939D80 /* Pods-swiftsampleprojectUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = swiftsampleprojectUITests/Info.plist;
@@ -475,6 +1327,7 @@
 		};
 		3CA42BF41E2BE21A001FB6DE /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4E8ACB55866AAEC52F5EAABE /* Pods-swiftsampleprojectUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = swiftsampleprojectUITests/Info.plist;
@@ -505,6 +1358,7 @@
 				3CA42BEE1E2BE21A001FB6DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3CA42BEF1E2BE21A001FB6DE /* Build configuration list for PBXNativeTarget "swiftsampleprojectTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +1367,7 @@
 				3CA42BF11E2BE21A001FB6DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3CA42BF21E2BE21A001FB6DE /* Build configuration list for PBXNativeTarget "swiftsampleprojectUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +1376,7 @@
 				3CA42BF41E2BE21A001FB6DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
