@@ -10,12 +10,15 @@ import Foundation
 
 struct Constants {
 	struct Network {
-		static let publicKey: String = "d490d789753ae8157f59b9a094c4782f"
+		static let publicKey = "d490d789753ae8157f59b9a094c4782f"
 		static let privateKey: String = "INSERT HERE"
 		static let baseAddress = "https://gateway.marvel.com/"
 		static let pageLimit = 100
 	}
 	struct Defaults {
-		static let settings: String = "Settings"
+		static let settings = "Settings"
+	}
+	struct Segues {
+		static let startingControllerToTabController = "showInitialTabBar"
 	}
 }

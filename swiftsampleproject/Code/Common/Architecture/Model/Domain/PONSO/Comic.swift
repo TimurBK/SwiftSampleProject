@@ -14,7 +14,7 @@ struct Comic {
 	let title: String
 	let issueNumber: Int64
 	let date: Date
-	let comicDescription: String
+	let comicDescription: String?
 	let isbn: String
 	let pageCount: Int64
 	let thumbnail: String

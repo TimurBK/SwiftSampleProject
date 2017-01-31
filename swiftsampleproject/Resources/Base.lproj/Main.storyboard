@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="15G1217" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="3Te-jx-blH">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="15G1217" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="obV-pA-WB4">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -153,6 +153,48 @@
                 <customObject id="sRc-La-ohN" customClass="DataCoordinator" customModule="swiftsampleproject" customModuleProvider="target"/>
             </objects>
             <point key="canvasLocation" x="524" y="-288.30584707646182"/>
+        </scene>
+        <!--Starting View Controller-->
+        <scene sceneID="3gd-LE-LJS">
+            <objects>
+                <viewController id="obV-pA-WB4" customClass="StartingViewController" customModule="swiftsampleproject" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="TIF-TR-eaa"/>
+                        <viewControllerLayoutGuide type="bottom" id="bxJ-Je-H4t"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="R53-eC-gdx">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Инициализация приложения" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QOc-la-BHN">
+                                <rect key="frame" x="16" y="284" width="343" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" animating="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="nLN-T5-JZU">
+                                <rect key="frame" x="169" y="315" width="37" height="37"/>
+                                <color key="color" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="trailingMargin" secondItem="QOc-la-BHN" secondAttribute="trailing" id="DKZ-nM-iPi"/>
+                            <constraint firstItem="nLN-T5-JZU" firstAttribute="centerX" secondItem="R53-eC-gdx" secondAttribute="centerX" id="klf-a7-2OV"/>
+                            <constraint firstItem="nLN-T5-JZU" firstAttribute="centerY" secondItem="R53-eC-gdx" secondAttribute="centerY" id="uNR-oi-0Nf"/>
+                            <constraint firstItem="QOc-la-BHN" firstAttribute="leading" secondItem="R53-eC-gdx" secondAttribute="leadingMargin" id="uT0-BU-Nkp"/>
+                            <constraint firstItem="nLN-T5-JZU" firstAttribute="top" secondItem="QOc-la-BHN" secondAttribute="bottom" constant="10" id="zZ0-qP-vMw"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="activityIndicator" destination="nLN-T5-JZU" id="wHA-4j-uDe"/>
+                        <outlet property="helpLabel" destination="QOc-la-BHN" id="Kzs-Eh-e3I"/>
+                        <segue destination="3Te-jx-blH" kind="presentation" identifier="showInitialTabBar" id="tid-nZ-rwp"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="zye-Yy-aD1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1287" y="38"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="wHB-Hv-E5z">

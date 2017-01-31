@@ -39,6 +39,14 @@ class NetworkProvider: NetworkManager {
 				break
 		}
 	}
+
+	func handleData(data: Data) {
+
+	}
+	
+	func handleError(data: Data) {
+
+	}
 }
 
 extension NetworkProvider {
