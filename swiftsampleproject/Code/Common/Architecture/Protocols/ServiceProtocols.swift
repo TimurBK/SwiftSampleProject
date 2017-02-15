@@ -8,18 +8,18 @@
 
 import Foundation
 
-typealias ListUpdate<T> = ([T], String) -> ()
+typealias ListUpdate<T> = ([T]?, String?) -> ()
 typealias ComicsListUpdate = ListUpdate<Comic>
 
-protocol NetworkManager {
+@objc protocol NetworkManager {
 	func fetchComics(offset: Int64, settings: Settings, completion: @escaping ComicsListUpdate) -> ()
 }
 
-protocol DataManager {
+@objc protocol DataManager {
 	func fetchComics(offset: Int64, settings: Settings, completion: @escaping ComicsListUpdate) -> ()
 }
 
-protocol LocalStorageManager {
+@objc protocol LocalStorageManager {
 	func fetchComics(offset: Int64, settings: Settings, completion: @escaping ComicsListUpdate) -> ()
 	func storeComics(offset: Int64, settings: Settings, completion: @escaping ComicsListUpdate) -> ()
 }

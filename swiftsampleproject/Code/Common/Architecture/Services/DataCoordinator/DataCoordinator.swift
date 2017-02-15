@@ -7,16 +7,22 @@
 //
 
 import Foundation
-import Moya
-import Unbox
-
+import PromiseKit
+import ProcedureKit
 
 class DataCoordinator : NSObject, DataManager {
 	static let shared = DataCoordinator()
-	let localStorage: LocalStorageManager
-	let networking: NetworkManager
+//	let localStorage: LocalStorage!
+//	let networking: NetworkProvider!
 
 	override init() {
+	}
+
+	func confugure() -> () {
+
+	}
+
+	func configurePromiseKit() -> () {
 
 	}
 
@@ -25,6 +31,7 @@ class DataCoordinator : NSObject, DataManager {
 	}
 
 	func fetchComics(offset: Int64, settings: Settings, completion: @escaping ComicsListUpdate) -> () {
-		self.localStorage.fetch
+		completion()
+//		self.localStorage.fetch
 	}
 }

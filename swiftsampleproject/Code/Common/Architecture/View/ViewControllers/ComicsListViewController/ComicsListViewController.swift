@@ -12,14 +12,15 @@ class ComicsListViewController: UIViewController {
 
 	@IBOutlet var settingsManager: SettingsManager!
 	@IBOutlet var dataCoordinator: DataCoordinator!
+	@IBOutlet var collectionView: UICollectionView!
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-		self.dataCoordinator.fetchComics(offset: 0) { (comics, string) in
-			print("error = \(string)")
-			print("comics = \(comics)")
-		}
+//		self.dataCoordinator.fetchComics(offset: 0) { (comics, string) in
+//			print("error = \(string)")
+//			print("comics = \(comics)")
+//		}
         // Do any additional setup after loading the view.
     }
 

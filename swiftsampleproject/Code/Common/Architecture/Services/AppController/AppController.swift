@@ -9,14 +9,20 @@
 import Foundation
 
 typealias AppControllerCompletion = () -> ()
+
 class AppController: NSObject {
 	static let shared = AppController()
 	let dataCoordinator: DataCoordinator!
-	func awakeAfter(using aDecoder: NSCoder) -> DataCoordinator? {
+
+	override init() {
+		dataCoordinator = DataCoordinator()
+	}
+
+	func awakeAfter(using aDecoder: NSCoder) -> AppController? {
 		return AppController.shared
 	}
-	func configure(completion: AppControllerCompletion) {
-		DispatchQueue.main.asyncAfter(deadline: DispatchTime(5 * 1_000_000_000)) {
+	func configure(completion: @escaping AppControllerCompletion) {
+		DispatchQueue.main.asyncAfter(deadline: DispatchTime(uptimeNanoseconds: 5 * 1_000_000_000)) {
 			completion()
 		}
 	}

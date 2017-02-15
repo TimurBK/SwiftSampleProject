@@ -144,6 +144,7 @@
                     </view>
                     <tabBarItem key="tabBarItem" title="Comic List" id="TY9-8h-rtz"/>
                     <connections>
+                        <outlet property="collectionView" destination="rf3-eF-6EL" id="Nss-rP-haH"/>
                         <outlet property="dataCoordinator" destination="sRc-La-ohN" id="sgo-To-fEC"/>
                         <outlet property="settingsManager" destination="1oN-GJ-RmB" id="a2c-7c-tim"/>
                     </connections>
@@ -193,6 +194,7 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zye-Yy-aD1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <customObject id="KUu-ge-TbE" customClass="AppController" customModule="swiftsampleproject" customModuleProvider="target"/>
             </objects>
             <point key="canvasLocation" x="-1287" y="38"/>
         </scene>

@@ -13,7 +13,10 @@ import CryptoSwift
 import ProcedureKit
 
 class NetworkProvider: NetworkManager {
-	let provider = MoyaProvider<MarvelEndpoints>()
+	let provider: MoyaProvider<MarvelEndpoints>
+	override init() {
+		provider = MoyaProvider<MarvelEndpoints>()
+	}
 	func fetchComics(offset: Int64, settings: Settings, completion: @escaping ComicsListUpdate) -> () {
 		switch settings.networking {
 			case .moya:
